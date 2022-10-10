@@ -1,0 +1,2 @@
+#add which folders and files should not be copied by the COPY instruction
+node_modules
